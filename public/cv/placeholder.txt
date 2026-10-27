@@ -1,0 +1,6 @@
+# Placeholder for CV
+
+Replace this file with your actual CV PDF.
+Name the file: Emmanuel_Nneji_CV.pdf
+
+Update the cvUrl in src/data/profile.ts to match your file name.
